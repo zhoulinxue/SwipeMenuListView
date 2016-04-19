@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio_workplace\\SwipeMenuListView\\swipeMenuListView\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "E:\\studio_workplace\\SwipeMenuListView\\swipeMenuListView\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "E:\\studio_workplace\\SwipeMenuListView\\swipeMenuListView\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studio_workplace\\SwipeMenuListView\\swipeMenuListView\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\studio_workplace\\SwipeMenuListView\\swipeMenuListView\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_app.xml",
+        "source": "E:\\studio_workplace\\SwipeMenuListView\\swipeMenuListView\\src\\main\\res\\layout\\item_list_app.xml"
+    }
+]
